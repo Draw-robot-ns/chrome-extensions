@@ -1,6 +1,6 @@
 {
-  "name": "Improved new tab page",
-  "description": "Display bookmarks on the new tab page",
+  "name": "Astrr's new tab",
+  "description": "You can't have it. Unless you can.",
   "version": "0.1",
   "incognito": "split",
   "chrome_url_overrides": {"newtab": "start-page.html"},
